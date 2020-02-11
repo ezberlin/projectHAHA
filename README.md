@@ -1,2 +1,5 @@
-# information about this program
-learning markdown
+# Information About This Program
+## What I Want To Do 
+* Learning markdown
+* Learning python
+
